@@ -1,0 +1,6 @@
+# Criar a pasta do projeto
+mkdir lab-gestao-configuracao
+cd lab-gestao-configuracao
+
+# Inicializar o repositório
+git init
